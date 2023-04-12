@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Pal</h1>
 <h3 align="center">Building digital experiences with code. Full-stack web developer with a passion for creating dynamic and intuitive user interfaces. Skilled in HTML, CSS, JavaScript, and multiple frameworks. Always eager to learn and collaborate on new projects.</h3>
-<img align="right"  alt="coding" width="400" src"https://miro.medium.com/v2/resize:fit:1400/0*cV74X15zJgtxzXwN.png">
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam886&label=Profile%20views&color=0e75b6&style=flat" alt="shivam886" /> </p>
 
